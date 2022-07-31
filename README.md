@@ -1,2 +1,2 @@
 # github-final-project
-IBM githut final Project
+IBM github final Project
